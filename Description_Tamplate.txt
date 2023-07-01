@@ -1,0 +1,31 @@
+1.Start with a brief introduction
+2.Describe the features and functionality
+3.Explain the target audience
+4.Discuss the benefits or value proposition
+5.Mention any notable achievements or milestones
+6.Include technical details (optional)
+7.Provide a call-to-action
+8.Proofread and revise
+
+====================================================================
+
+
+This is a portfolio website I build in the summer of 2023. It is composed of html, css and javascript. The object of this project is to demonstrate my skills in website development as well as build an aflexible and expandable webstie to host my profolio and my sevices and my contact information. The HTML is broken down into invidual section such as header, intro, my service, about me, my work and footer. Each section is then decorated by css code. The target audience of this project is the employeers seeking people with computer science skills 
+ 
+
+=====================================================================
+Start with a brief introduction: Begin by introducing the website project and its purpose in a few sentences. This should give readers an immediate understanding of what the website is about.
+
+Describe the features and functionality: Highlight the key features and functionality of the website. Focus on the unique aspects or standout elements that set it apart from others. This could include interactive components, special functionalities, or innovative design elements.
+
+Explain the target audience: Describe the intended audience or users of the website. Discuss their needs, interests, and how the website addresses their specific requirements. This will help readers determine if the website is relevant and useful to them.
+
+Discuss the benefits or value proposition: Explain the benefits or value that the website provides to its users. Highlight how it solves a problem, makes tasks easier, or offers unique opportunities. This will help readers understand why they should engage with the website.
+
+Mention any notable achievements or milestones: If the website project has achieved any significant milestones, such as awards, recognition, or notable collaborations, include them in the description. This helps build credibility and demonstrates the project's success.
+
+Include technical details (optional): If relevant, you can mention the technologies, programming languages, or frameworks used in building the website. However, keep these details concise and avoid technical jargon that may confuse non-technical readers.
+
+Provide a call-to-action: End the description with a clear call-to-action, inviting readers to visit the website, explore its features, or take a specific action. This encourages user engagement and interaction.
+
+Proofread and revise: Before finalizing the description, proofread it for clarity, grammar, and spelling errors. Revise and refine the content to ensure it effectively communicates the project's essence.
