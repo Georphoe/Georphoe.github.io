@@ -85,6 +85,11 @@ strong { font-weight: var(--fw-bold);}
     transform: scale(1.1);
 }
 
+/* Project Link*/
+.pjl{
+    text-align: center;
+}
+
 /* Typography */
 h1,
 h2,
