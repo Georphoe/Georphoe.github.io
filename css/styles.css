@@ -50,6 +50,12 @@ body{
     line-height: 1.6; /* 1.6 times the font size*/
 }
 
+.portfolio__item__body {
+    background: #f5f5dc;
+}
+
+
+
 section {
     padding: 5em 2em;
 }
