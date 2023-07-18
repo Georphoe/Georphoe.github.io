@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Georphoe's Work</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css"
+    />
+    <!--This is the URL of the CSS file that is being linked. It points to the Normalize.css library hosted on the cdnjs content delivery network (CDN). The Normalize.css library is used to provide consistent default styling across different browsers.-->
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!-- It points to the Font Awesome CSS file that contains the styles for the icons.-->
+
+    <link rel="stylesheet" href="./css/styles.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,900|Source+Sans+Pro:300,900&display=swap"
+      rel="stylesheet"
+    />
+    <!-- It points to the Google Fonts CSS file that contains the font definitions.-->
+  </head>
+  <body class="portfolio__item__body">
+    <!-- Header -->
+    <header>
+      <div class="logo">
+        <img src="./img/Georphoe_logo.png" alt="" />
+      </div>
+      <button class="nav-toggle" aria-label="toggle navigation">
+        <span class="hamburger"></span>
+      </button>
+      <nav class="nav">
+        <ul class="nav__list">
+          <li class="nav__item">
+            <a href="index.html" class="nav__link">Home</a>
+          </li>
+          <li class="nav__item">
+            <a href="index.html#services" class="nav__link">My Servives</a>
+          </li>
+          <li class="nav__item">
+            <a href="index.html#about" class="nav__link">About Me</a>
+          </li>
+          <li class="nav__item">
+            <a href="index.html#work" class="nav__link">My Work</a>
+          </li>
+          <li class="nav__item">
+            <a href="#" class="nav__link">Resume</a>
+          </li>
+          <li class="nav__item">
+            <a href="#" class="nav__link">Course Work</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Introduction -->
+    <section class="intro">
+      <h1 class="section__title section__title--intro">
+        <strong>Lead Tracker<br />Chrome Extension</strong>
+      </h1>
+      <p class="section__subtitle section__subtitle--intro">
+        HTML, CSS, JavaScript
+      </p>
+      <img class="intro__img" src="./img/portfolio-05.png" alt="" />
+    </section>
+
+    <!-- Project Link-->
+    <div class="pjl">
+      <a
+        href="https://github.com/Georphoe/Chrome_Extention"
+        target="_blank"
+        class="btn"
+        >Go To Project</a
+      >
+    </div>
+    <!-- portfolio-item-individual -->
+
+    <div class="portfolio-item-individual">
+      <p>
+        This project aims to create a Google Chrome extension that allows users
+        to save the current tab or an inputed tab on a list, store that data
+        using the browser's LocalStorage, retrieve and render the stored data on
+        the screen later.
+      </p>
+      <img src="./img/portfolio-05-details-01.png" alt="" />
+      <p>
+        The Lead tracker chrome extension utilizes various JavaScript concepts
+        and functions such as "const", "addEventListener()", "innerHTML",
+        "input.value", "function parameters", "template strings", "the JSON
+        object", and "objects in arrays".
+      </p>
+      <img src="./img/portfolio-05-details-02.png" alt="" />
+      <p>
+        This project provides a simple and effective way to store data locally,
+        making it easily accessible for the user. It demonstrates the use of
+        event handling, data manipulation, LocalStorage interaction, and
+        rendering data dynamically on a webpage using JavaScript.
+      </p>
+    </div>
+
+    <!-- Footer-->
+    <footer class="footer">
+      <a href="mailto:tzechen@email.sc.edu" class="footer__link"
+        >tzechen@email.sc.edu</a
+      >
+      <ul class="social-list">
+        <li class="social-list__item">
+          <a
+            href="https://github.com/Georphoe"
+            class="social-list__link"
+            target="_blank"
+          >
+            <i class="fa-brands fa-github"></i>
+          </a>
+        </li>
+        <li class="social-list__item">
+          <a
+            href="https://www.linkedin.com/in/georphoe-lin-780237181/"
+            class="social-list__link"
+            target="_blank"
+          >
+            <i class="fa-brands fa-linkedin"></i>
+          </a>
+        </li>
+      </ul>
+    </footer>
+
+    <script src="./js/index.js"></script>
+  </body>
+</html>
